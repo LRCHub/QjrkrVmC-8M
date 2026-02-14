@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "ライラック",
+  "base_track": "ライラック - Lilac",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2025-12-01T04:16:24.791992Z",
+  "createdAt": "2026-02-14T13:21:22.592885Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -127,42 +127,10 @@
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Lilac",
-      "artist": "RAZZ MA TAZZ",
-      "has_synced": false,
-      "path": "select/pl_01_Lilac_RAZZ_MA_TAZZ.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "lilac",
-      "artist": "RAZZ MA TAZZ",
-      "has_synced": false,
-      "path": "select/pl_02_lilac_RAZZ_MA_TAZZ.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
       "title": "ライラック",
-      "artist": "RAZZ MA TAZZ",
+      "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
-      "path": "select/pl_03_ライラック_RAZZ_MA_TAZZ.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "ライラック",
-      "artist": "RAZZ MA TAZZ",
-      "has_synced": false,
-      "path": "select/pl_04_ライラック_RAZZ_MA_TAZZ.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "ライラック",
-      "artist": "RAZZ MA TAZZ",
-      "has_synced": false,
-      "path": "select/pl_05_ライラック_RAZZ_MA_TAZZ.txt"
+      "path": "select/pl_01_ライラック_Mrs._GREEN_APPLE.txt"
     }
   ]
 }
