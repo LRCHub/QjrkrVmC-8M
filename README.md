@@ -1,4 +1,4 @@
-# Mrs. GREEN APPLE – ライラック - Lilac
+# Mrs. GREEN APPLE – ライラック
 
 > **歌詞登録ステータス：同期歌詞あり**
 
