@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "ライラック - Lilac",
+  "base_track": "ライラック",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2026-03-10T08:36:27.678305Z",
+  "createdAt": "2026-03-18T15:42:01.815299Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,24 @@
       "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
       "path": "select/pl_01_ライラック_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ライラック",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/localdb_01_ライラック_Mrs._GREEN_APPLE.lrc",
+      "repo_name": "QjrkrVmC-8M"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ライラック",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/localdb_02_ライラック_Mrs._GREEN_APPLE.lrc",
+      "repo_name": "b-RGPqVzHUw"
     }
   ]
 }
